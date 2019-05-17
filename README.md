@@ -1,6 +1,7 @@
 # ChessASR
 
 This is project in Automatic Speech Recognition subject.
+Steps were followed [classproject](https://github.com/ekapolc/ASR_classproject/tree/master/hookup).
 
 To run, open the server of Kaldi Gstreamer:
 
